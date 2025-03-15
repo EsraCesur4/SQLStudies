@@ -1,1 +1,1 @@
-# SQLStudies
+# A guide to SQL
